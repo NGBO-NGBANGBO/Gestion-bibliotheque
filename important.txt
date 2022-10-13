@@ -1,0 +1,9 @@
+
+
+=================ADMIN======================
+email: admin@mundiapolis.ma
+mdp: admin
+================Utilisateur=================
+email : n.ohapoune@mundiapolis.ma
+mdp : nouhaila
+
